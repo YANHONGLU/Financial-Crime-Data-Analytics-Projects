@@ -1,16 +1,14 @@
 # Financial Crime Data Analytics Projects
 
-A collection of small Python projects focused on financial crime analytics, transaction monitoring, and model risk monitoring.
+A collection of small Python projects covering common financial crime analytics tasks.
 
 ## Projects
 
-### 1. Transaction Monitoring Rule
-Flags suspicious customers based on:
-- Daily transaction amount
-- Number of high-risk transactions
-
-### 2. Model Performance Monitoring
-Monitors model performance using ROC AUC and triggers an alert when performance drops beyond a defined threshold.
+1. FinCrime Data Quality Checks  
+2. Transaction Monitoring & Threshold Tuning  
+3. Partner Risk Monitoring  
+4. FinCrime KRI Monitoring  
+5. Model Performance Monitoring  
 
 ## Technologies
 
@@ -20,6 +18,4 @@ Monitors model performance using ROC AUC and triggers an alert when performance 
 
 ## Purpose
 
-This repository is used to practice practical financial crime and risk analytics tasks with simple, reusable Python examples.
-
-More projects will be added over time.
+This project practices practical financial crime analytics workflows, including data cleaning, transaction monitoring, risk indicators, partner risk analysis, and model monitoring.
